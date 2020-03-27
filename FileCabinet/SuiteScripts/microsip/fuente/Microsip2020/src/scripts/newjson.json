@@ -1,0 +1,81 @@
+[{
+        "id": "159",
+        "qty": 100,
+        "intNumVal": "19",
+        "intNumTex": "2001120",
+        "idIventario": "63",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 10,
+        "intNumVal": "22",
+        "intNumTex": "171019-011",
+        "idIventario": "85",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 10,
+        "intNumVal": "18",
+        "intNumTex": "100",
+        "idIventario": "62",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 1,
+        "intNumVal": "22",
+        "intNumTex": "171019-011",
+        "idIventario": "67",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 10,
+        "intNumVal": "22",
+        "intNumTex": "171019-011",
+        "idIventario": "83",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 1,
+        "intNumVal": "21",
+        "intNumTex": "123432",
+        "idIventario": "113",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 50,
+        "intNumVal": "19",
+        "intNumTex": "2001120",
+        "idIventario": "65",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 50,
+        "intNumVal": "21",
+        "intNumTex": "123432",
+        "idIventario": "65",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 10,
+        "intNumVal": "22",
+        "intNumTex": "171019-011",
+        "idIventario": "84",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }, {
+        "id": "159",
+        "qty": 100,
+        "intNumVal": "22",
+        "intNumTex": "171019-011",
+        "idIventario": "68",
+        "locationId": "54",
+        "locationText": "CHILES SECOS"
+    }]
